@@ -14,7 +14,7 @@ h1 {
   letter-spacing: 1.2em;
   text-shadow: 1px 1px 2px gray;
   border-bottom: 3px solid rgb(115, 115, 114);
-font-size: 2em;
+  font-size: 40px;
 }
 
 html {
@@ -28,11 +28,11 @@ html {
 .blue {
   color: skyblue;
 }
-#basic > p {
+
+#basic>p {
   font-weight: bold;
 }
+
 html {
   font-size: 20px;
 }
-
-
