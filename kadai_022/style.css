@@ -17,7 +17,7 @@ margin: 10px;
 }
 #parent {
     display: flex;
-    justify-content: center;
+    justify-content:space-evenly ;
 }.contents{
     border: 3px solid rgb(238, 204, 204);
     flex-basis: 25%;
